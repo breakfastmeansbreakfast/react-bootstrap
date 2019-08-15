@@ -2,6 +2,8 @@
 
 React boilerplate project for Manchester Codes' projects.
 
+### Updated August 2019 for security fixes
+
 ## Getting Started
 
 ### Clone down this repository (replace `<your_project_name>`:
